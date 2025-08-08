@@ -6,7 +6,7 @@ Full-stack project: React frontend + Flask backend integrating OpenAI (GPT-4) an
 - Google OAuth2 + Calendar API for secure access and free/busy checks.
 - REST API for suggestions and event creation.
 
-## Local dev (quick)
+## Local dev
 1. Backend:
    - cd backend
    - copy `.env.example` to `.env` and fill values (GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, OPENAI_API_KEY, SECRET_KEY, BASE_URL)
